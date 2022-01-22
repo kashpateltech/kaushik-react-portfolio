@@ -1,5 +1,5 @@
 import './App.css';
-import { HashRouter as Router, Route, Switch } from 'react-router-dom'
+import { BrowserRouter as Router, Route, Switch } from 'react-router-dom'
 import About from './pages/About.js'
 import Work from './pages/Work.js'
 import Contact from './pages/Contact.js'
@@ -10,7 +10,7 @@ import Footer from './components/Footer.js'
 
 function App() {
   return (
-    <Router>
+    <Router basename="/kaushik-react-portfolio">
       <>
         <NavBar />
         <Switch>
