@@ -10,7 +10,7 @@ import Footer from './components/Footer.js'
 
 function App() {
   return (
-    <Router>
+    <Router basename='/kaushik-react-portfolio'>
       <>
         <NavBar />
         <Switch>
