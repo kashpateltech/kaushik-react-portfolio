@@ -1,8 +1,8 @@
 {
   "files": {
     "main.css": "/kaushik-react-portfolio/static/css/main.8d22e332.chunk.css",
-    "main.js": "/kaushik-react-portfolio/static/js/main.7989e7b6.chunk.js",
-    "main.js.map": "/kaushik-react-portfolio/static/js/main.7989e7b6.chunk.js.map",
+    "main.js": "/kaushik-react-portfolio/static/js/main.4afc8c7f.chunk.js",
+    "main.js.map": "/kaushik-react-portfolio/static/js/main.4afc8c7f.chunk.js.map",
     "runtime-main.js": "/kaushik-react-portfolio/static/js/runtime-main.57364722.js",
     "runtime-main.js.map": "/kaushik-react-portfolio/static/js/runtime-main.57364722.js.map",
     "static/js/2.53da83be.chunk.js": "/kaushik-react-portfolio/static/js/2.53da83be.chunk.js",
@@ -15,6 +15,6 @@
     "static/js/runtime-main.57364722.js",
     "static/js/2.53da83be.chunk.js",
     "static/css/main.8d22e332.chunk.css",
-    "static/js/main.7989e7b6.chunk.js"
+    "static/js/main.4afc8c7f.chunk.js"
   ]
 }
