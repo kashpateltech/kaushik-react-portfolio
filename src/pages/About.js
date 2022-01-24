@@ -15,7 +15,7 @@ function About() {
                                 <div className="row justify-content-center">
                                     <div className="col-lg-8 py-3">
                                         <div className="team-item">
-                                                <img className="img-fluid img-thumbnail rounded mx-auto d-block" src="../assets/images/profile.jpeg" alt=""/>
+                                                <img className="img-fluid img-thumbnail rounded mx-auto d-block" src="./assets/images/profile.jpeg" alt=""/>
                                         </div>
                                     </div>
                                 </div>

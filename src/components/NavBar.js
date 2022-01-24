@@ -6,7 +6,7 @@ function NavBar() {
     <>
             <nav className="navbar navbar-expand-lg navbar-dark bg-dark" sticky="top">
                 <div className="container">
-                    <a className="navbar-brand" href="/">Kaushik Patel</a>
+                    <Link className="navbar-brand" to="/">Kaushik Patel</Link>
                     <button className="navbar-toggler" type="button" data-toggle="collapse" data-target="#navbarToggler" aria-controls="navbarToggler" aria-expanded="false" aria-label="Toggle navigation">
                         <span className="navbar-toggler-icon"></span>
                     </button>
@@ -22,7 +22,7 @@ function NavBar() {
                             </li>
                         </ul>
                         <div className="ml-auto my-2 my-lg-0">
-                            <a className="btn btn-dark rounded-pill nav-link" href="/cv">Download CV</a>
+                            <Link className="btn btn-dark rounded-pill nav-link" to="/cv">Download CV</Link>
                         </div>
                     </div>
                 </div>
