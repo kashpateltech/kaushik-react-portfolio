@@ -12,7 +12,7 @@ function Footer() {
                             <ul className="menu-link">
                                 <li><Link to="/" className="">About Me</Link></li>
                                 <li><Link to="/work" className="">My Work</Link></li>
-                                <li><Link to="/contact" className="">Contact Me</></li>
+                                <li><Link to="/contact" className="">Contact Me</Link></li>
                                 <li><Link to="/cv" className="">Download CV</Link></li>
                             </ul>
                         </div>
