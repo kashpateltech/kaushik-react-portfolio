@@ -19,7 +19,7 @@ function Footer() {
                         <div className="col-md-6 col-lg-4 py-3">
                             <h5 className="mb-3">Contact</h5>
                             <ul className="menu-link">
-                                <li><a href="/contact" className="">Contact Me</a></li>
+                                <li><Link to="/contact" className="">Contact Me</Link></li>
                                 <li>kaushikpatel26@yahoo.com</li>
                                 <li>0433-555-279</li>
                             </ul>

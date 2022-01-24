@@ -4,7 +4,7 @@ function Work() {
     const projects = [
         {
             name: 'ARTHOUSE',
-            image: '/assets/images/arthouse.jpeg',
+            image: './assets/images/arthouse.jpeg',
             deployed: 'https://raimeeab.github.io/arthouse-project/',
             github: 'https://github.com/Raimeeab/arthouse-project/tree/home_page',
             desc: 'ArtHouse is real world application designed for users to search for various artists and their artwork.Technologies used in this project are HTML, CSS, Foundation, JavaScript and Third party APIs',
@@ -12,7 +12,7 @@ function Work() {
         },
         {
             name: 'Work Day Scheduler',
-            image: '/assets/images/Workdayscheduler.png',
+            image: './assets/images/Workdayscheduler.png',
             deployed: 'https://kashpateltech.github.io/workdayscheduler/',
             github: 'https://github.com/kashpateltech/workdayscheduler',
             desc: 'Created a workday scheduler using bootstrap, Jquery. Used moment.js. Colour coded the hourly blocks depending on whether its the current hour or its already past or is in the future, used local storage to save the entries in the scheduler.',
@@ -20,7 +20,7 @@ function Work() {
         },
         {
             name: 'Random Password Generator',
-            image: '/assets/images/randompasswordgenerator.png',
+            image: './assets/images/randompasswordgenerator.png',
             deployed: 'https://kashpateltech.github.io/Randompasswordgenerator/',
             github: 'https://github.com/kashpateltech/Randompasswordgenerator',
             desc: 'Random Password Generator in JS This is my first JS project. I have added comments to make it easy to understand the code. I have primarily used IF, IF-ELSE and ELSE statements along with FOR loop. It will create random passwords depending on criteria the',
